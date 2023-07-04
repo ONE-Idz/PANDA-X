@@ -1,4 +1,4 @@
-Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini.
+Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini. 
  
 ###  Install perintah Di Termux
 ```
