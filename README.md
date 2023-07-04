@@ -1,4 +1,4 @@
-### ⇨  Install Script Di Termux
+###  Install Script Di Termux
 ```
 $ apt update $$ apt upgrade
 $ termux-setup-storage  
@@ -6,11 +6,11 @@ $ termux-setup-storage
    • Ketik y Atau Pilih Izinkan
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/Dapunta/RanAraya
+$ git clone https://github.com/ONE-Idz/PANDA-X
 ```
-### ⇨  Menjalankan Script
+###  Menjalankan Script
 ```
-$ cd RanAraya
+$ cd PANDA-X
 $ git pull
-$ python run.py
+$ python main.py
 ```
