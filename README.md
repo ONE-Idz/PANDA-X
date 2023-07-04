@@ -26,12 +26,12 @@ $ git pull
 $ python main.py
 ```
 ---
-###### Screenshot Tampilan [![](https://github.com/ONE-Idz/mymusic/blob/main/Screenshot_2023-07-03-03-45-40-543_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+###### Contoh Result Crack [![](https://github.com/ONE-Idz/mymusic/blob/main/Screenshot_2023-07-03-03-45-40-543_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
 
 
 ---   
 
-[![](https://img.shields.io/badge/Whatsapp-JUN-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196816220?text=Permisi+Sob!)
+###### Contact [![](https://img.shields.io/badge/Whatsapp-JUN-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196816220?text=Permisi+Sob!)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
 
 ---
