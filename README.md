@@ -15,7 +15,6 @@ $ apt update $$ apt upgrade
 $ termux-setup-storage  
    • Enter  
    • Ketik y Atau Pilih Izinkan
-$ apt update && apt upgrade
 $ pkg install python git
 $ pkg install play-audio
 $ pip install requests mechanize
