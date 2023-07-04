@@ -1,3 +1,12 @@
+[![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+
+-    
+
+
+###### Screenshot Tampilan Colm3x [![](https://github.com/ONE-Idz/mymusic/blob/main/Screenshot_2023-07-04-21-53-16-259_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+
+
+
 Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https://f-droid.org/repo/com.termux_118.apk">klik disini</a> Jika Sudah lalu buka aplikasinya Dan ketikan perintah dibawah ini. 
  
 ###  Install perintah Di Termux
