@@ -19,9 +19,9 @@ $ pkg install python git
 $ pkg install play-audio
 $ pip install requests mechanize
 $ pip install stdiomask
+$ pip install licensing
 $ pip install rich bs4
 $ pip install --upgrade pip
-$ pip install licensing
 $ git clone https://github.com/ONE-Idz/PANDA-X
 ```
 ###  Menjalankan Script
