@@ -31,7 +31,8 @@ $ python main.py
 
 ---   
 
-###### Contact [![](https://img.shields.io/badge/Whatsapp-JUN-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196816220?text=Permisi+Sob!)
+###### Contact
+[![](https://img.shields.io/badge/Whatsapp-JUN-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196816220?text=Permisi+Sob!)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
 
 ---
