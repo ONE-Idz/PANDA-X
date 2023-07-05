@@ -1,3 +1,11 @@
+```
+License : EUSTT-ZVHZL-CAANN-VYHLO
+
+Trial : 2 Days
+
+Device : 15
+```
+
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
     
 
