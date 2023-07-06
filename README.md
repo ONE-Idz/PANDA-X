@@ -2,11 +2,11 @@
 ```
 License : EUSTT-ZVHZL-CAANN-VYHLO
 
-Trial   : 2 Days
+Status  : Trial
 
-Expired : 16-07-2023 19:40/Wit
+Expired : 5-Days
 
-Device  : 25
+Device  : Unlimited
 ```
 
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
@@ -23,9 +23,6 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 ###  Install perintah Di Termux
 ```
 $ apt update $$ apt upgrade
-$ termux-setup-storage  
-   • Enter  
-   • Ketik y Atau Pilih Izinkan
 $ pkg install python git
 $ pkg install play-audio
 $ pip install requests mechanize
@@ -39,7 +36,8 @@ $ git clone https://github.com/ONE-Idz/PANDA-X
 ```
 $ cd PANDA-X
 $ git pull
-$ python main.py
+$ python3 main.py
+   • Ketik y Atau Pilih Izinkan
 ```
 ---
 ###### Contoh Result Crack [![](https://github.com/ONE-Idz/mymusic/blob/main/IMG_20230704_221509.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
