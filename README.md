@@ -25,6 +25,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
  
 ###  Install perintah Di Termux
 ```
+$ termux-setup-storage
 $ apt update $$ apt upgrade
 $ pkg install python git
 $ pkg install play-audio
