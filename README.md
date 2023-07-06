@@ -41,6 +41,7 @@ $ git clone https://github.com/ONE-Idz/PANDA-X
 $ cd PANDA-X
 $ git pull
 $ python3 main.py
+   • Do you want to continue? (y/n) y
    • Masukkan Key Yg Di Atas
 ```
 ---
