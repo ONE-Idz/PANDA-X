@@ -45,7 +45,7 @@ $ python3 main.py
    • Masukkan Key Yg Di Atas
 ```
 ---
-###### Contoh Result Crack [![](https://github.com/ONE-Idz/mymusic/blob/main/IMG_20230704_221509.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+###### Contoh Result Crack [![](https://github.com/ONE-Idz/mymusic/blob/main/Screenshot_2023-07-07-19-46-22-355_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
 
 
 ---   
