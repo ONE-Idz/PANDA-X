@@ -33,8 +33,7 @@ $ git clone https://github.com/ONE-Idz/PANDA-X
 $ cd PANDA-X
 $ git pull
 $ python3 main.py
-   • Do you want to continue? (y/n) y
-   • Masukkan Key Yg Di Atas
+   • 
 ```
 ---
 ###### Contoh Result Crack [![](https://github.com/ONE-Idz/mymusic/blob/main/Screenshot_2023-07-07-19-46-22-355_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
