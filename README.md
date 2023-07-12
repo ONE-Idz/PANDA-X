@@ -57,4 +57,4 @@ $ python3 main.py
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
     
 
-###### Make Doang Ngasih Star Kagak [![](https://github.com/mitul3737/mitul3737/blob/main/Wave.gif)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+###### Make Doang Ngasih Star Kagak <img src="https://c.tenor.com/Tvd3VKwtse0AAAAC/cat-cute.gif">
