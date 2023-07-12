@@ -2,7 +2,7 @@
     
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
 ## BINTANG MANA WOY🌟🌟🌟🌟🌟
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Gunakan+Denggan-Bijak-Kontol....!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Gunakan+Denggan+Bijak+Kontol....!+)
 
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
     
