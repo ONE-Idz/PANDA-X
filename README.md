@@ -1,16 +1,8 @@
 <h5 align="left">Note* </h5> <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file">Update Setiap Hari ● Flw My Github Bro>.< </a>
     
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
-###### Keys License
-```
-License : -
-
-Status  : -
-
-Expired : -
-
-Device  : -
-```
+## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
 
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
     
