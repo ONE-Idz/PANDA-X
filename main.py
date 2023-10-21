@@ -3,9 +3,8 @@ import os, sys
 sys.stdout.write('\x1b]2;PANDA-X 8.0 VERSION\x07')
 try:os.system('git pull')
 except:pass
-	print('Script Sedang Update..')
-        os.system("xdg-open https://m.facebook.com/jun.WA08988884579")
-        exit()
+print('Script Sedang Update..')
+os.system("xdg-open https://m.facebook.com/jun.WA08988884579");exit()
 jun__ganteng__bgt.cuyy__()
 ###-------- -------------------------------------->
 #     *LOGO PANDA-X*
