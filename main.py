@@ -1,4 +1,4 @@
-     ''' Gunakan Denggan Bijak Brayy '''
+#     ''' Gunakan Denggan Bijak Brayy '''
 from scmusic import jun__ganteng__bgt
 import os, sys
 sys.stdout.write('\x1b]2;PANDA-X 9.0 VERSION\x07')
@@ -32,4 +32,4 @@ Copyright By Jun.Pakaya 06 2023 ● ● ●"""
 ###----------------------------------------------->
 #     *JANGGAN DI PREMIN YA BANGSAD:)
 ###----------------------------------------------->
-''' Thanks To Jun Pakaya '''
+#''' Thanks To Jun Pakaya '''
