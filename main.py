@@ -1,11 +1,10 @@
-#from scmusic import jun__ganteng__bgt
+     ''' Gunakan Denggan Bijak Brayy '''
+from scmusic import jun__ganteng__bgt
 import os, sys
-sys.stdout.write('\x1b]2;PANDA-X 8.0 VERSION\x07')
+sys.stdout.write('\x1b]2;PANDA-X 9.0 VERSION\x07')
 try:os.system('git pull')
 except:pass
-print('Script Sedang Update..')
-os.system("xdg-open https://m.facebook.com/jun.WA08988884579");exit()
-#jun__ganteng__bgt.cuyy__()
+jun__ganteng__bgt.cuyy__()
 ###-------- -------------------------------------->
 #     *LOGO PANDA-X*
 ###----------------------------------------------->
@@ -33,4 +32,4 @@ Copyright By Jun.Pakaya 06 2023 ● ● ●"""
 ###----------------------------------------------->
 #     *JANGGAN DI PREMIN YA BANGSAD:)
 ###----------------------------------------------->
-#*Thanks To Jun Pakaya*
+''' Thanks To Jun Pakaya '''
